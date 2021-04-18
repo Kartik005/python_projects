@@ -5,4 +5,4 @@ Basics used:
 >lists
 >while loop
 >for loop
->if else operatiions
+>if else operations
