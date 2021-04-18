@@ -10,11 +10,11 @@ while(i<= n-1):
         multiplier= 2**i
         bin_no = num * multiplier
         if i== 0:
-            position = "first"
+            position = "1st"
         elif i == 1:
-            position = "second"
+            position = "2nd"
         elif i == 2:
-            position = "third"
+            position = "3rd"
         else:
             position = f"{i}th"
         
